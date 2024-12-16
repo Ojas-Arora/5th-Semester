@@ -1,4 +1,3 @@
-#6 shapes: Pixel, Line, Rectangle, Circle, Arc, and Sector Plotting with Turtle
 import turtle
 import random
 screen = turtle.Screen()
