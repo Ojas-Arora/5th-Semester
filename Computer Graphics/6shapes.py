@@ -1,3 +1,4 @@
+# 6 shapes
 import turtle
 import random
 screen = turtle.Screen()
