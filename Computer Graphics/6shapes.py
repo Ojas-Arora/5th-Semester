@@ -1,4 +1,3 @@
-# 6shapes.py
 import turtle
 import random
 screen = turtle.Screen()
