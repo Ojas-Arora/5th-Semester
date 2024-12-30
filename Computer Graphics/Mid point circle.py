@@ -1,3 +1,4 @@
+#Mid point circle drawing algorithm
 import turtle
 def draw_point(x, y):
     turtle.penup()
