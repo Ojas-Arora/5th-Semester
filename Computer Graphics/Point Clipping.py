@@ -1,6 +1,4 @@
 import matplotlib.pyplot as plt
-
-# Define a function to perform point clipping and visualize the results
 def point_clipping(points, window):
     # Extract window coordinates
     x_min, y_min, x_max, y_max = window
