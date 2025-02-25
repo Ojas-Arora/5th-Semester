@@ -1,3 +1,4 @@
+#Point Clipping
 import matplotlib.pyplot as plt
 def point_clipping(points, window):
     # Extract window coordinates
