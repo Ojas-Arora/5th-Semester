@@ -1,4 +1,4 @@
-# Mid point Ellipse Algorithm in Python
+# Mid point Ellipse Algorithm
 import turtle
 def draw_point(x, y):
     turtle.penup()
