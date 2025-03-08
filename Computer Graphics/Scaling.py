@@ -1,4 +1,3 @@
-# Scaling of a Triangle and Rectangle
 import turtle
 def write_label(label, position):
     turtle.penup()
