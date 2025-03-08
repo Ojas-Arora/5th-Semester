@@ -1,4 +1,3 @@
-# Reflection of a polygon about the diagonal y=x
 import turtle
 def write_label(label, position):
     turtle.penup()
