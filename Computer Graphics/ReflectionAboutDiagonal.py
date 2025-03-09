@@ -1,5 +1,5 @@
-import turtle
 
+import turtle
 def write_label(label, position):
     turtle.penup()
     turtle.goto(position[0], position[1] + 50)  
