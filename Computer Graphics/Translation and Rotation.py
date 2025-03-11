@@ -1,4 +1,3 @@
-# Translation and Rotation of Shapes
 import turtle
 import math
 WIDTH, HEIGHT = 1000, 700
